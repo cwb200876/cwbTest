@@ -1,0 +1,80 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/Core
+    - ASIHTTPRequest/S3
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - EGOTableViewPullRefresh (0.1.0)
+  - FMDB (2.3):
+    - FMDB/standard
+  - FMDB/common (2.3)
+  - FMDB/standard (2.3):
+    - FMDB/common
+  - iOSBlocks (1.0.2)
+  - IQKeyboardManager (3.0.8)
+  - iToast (0.0.1)
+  - JSBadgeView (1.3.2)
+  - JTObjectMapping (1.1.2)
+  - LKDBHelper (1.4):
+    - FMDB
+  - MBProgressHUD (0.9)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - OrderedDictionary (1.1.1)
+  - Reachability (3.1.1)
+  - RegexKitLite (4.0)
+  - SDWebImage (3.5.4):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5.4)
+  - SSKeychain (1.2.2)
+  - SVProgressHUD (1.0)
+  - TBXML (1.5)
+
+DEPENDENCIES:
+  - ASIHTTPRequest (~> 1.8.2)
+  - EGOTableViewPullRefresh (~> 0.1.0)
+  - FMDB (~> 2.2)
+  - iOSBlocks (~> 1.0.2)
+  - IQKeyboardManager (~> 3.0.2)
+  - iToast (~> 0.0.1)
+  - JSBadgeView (~> 1.3.2)
+  - JTObjectMapping (~> 1.1.1)
+  - LKDBHelper (~> 1.3)
+  - MBProgressHUD (~> 0.8)
+  - MKNetworkKit (~> 0.87)
+  - OrderedDictionary (~> 1.1.1)
+  - RegexKitLite (~> 4.0)
+  - SDWebImage (~> 3.5.4)
+  - SSKeychain (~> 1.2.1)
+  - SVProgressHUD (~> 1.0)
+  - TBXML (~> 1.5)
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: 2c8335b49410c0e2ad42829c438e74d454b77590
+  EGOTableViewPullRefresh: 04bb7d115f660c91a036ebade5e6678c7ef26c59
+  FMDB: 31ec26773c7f7b7890a6038235a1f2bbd933a7cb
+  iOSBlocks: fd053c5111ce96c2a94b5196dada7f47bfc76228
+  IQKeyboardManager: 0bf193c2d8a4d9c2063b39d6bc9d4e45a381a02a
+  iToast: 4de112d3dd42a3a8bf685572e6cda723c9cbc4f2
+  JSBadgeView: 75bec79d76e0eb01d57c9ce75b7c5ea8d6707955
+  JTObjectMapping: eb39b1ec7ecb7d1079a53595bbe46be8b2ed482b
+  LKDBHelper: b337d5cdfba9d0b78e74992e1ca8bdc8b9fc7928
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  MKNetworkKit: 83e6296a8d42e98a71880424a889773654846d74
+  OrderedDictionary: aedfe4b61c0642f18820fa05f5367d1d2147d82d
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  RegexKitLite: 761b4944f23cb8fe20697b2e47be0689fd832c09
+  SDWebImage: 571295c8acbb699505a0f68e54506147c3de9ea7
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+  TBXML: a279440030ba55c40e1455cafba3b0a44e1963d4
+
+COCOAPODS: 0.33.1
